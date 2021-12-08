@@ -64,6 +64,11 @@
     background-image: linear-gradient(to bottom, #E0E0E0, #F9F9F9 50%);
     margin-top: 8px;
     margin-bottom: 8px;
+    border-radius: 5px;
+}
+
+#btlimpa:active{
+    background-color: #00ff00;
 }
 
 #caracteres{
